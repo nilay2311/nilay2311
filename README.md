@@ -7,5 +7,5 @@
 <img align='right' src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200">
 
 [![Linkedin Badge](https://img.shields.io/badge/-avinashkrsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-kumar-singh-b3003029/)](https://www.linkedin.com/in/avinash-kumar-singh-b3003029/) 
-[![Gmail Badge](https://img.shields.io/badge/-avinashkrsingh9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avinashkrsingh9@gmail.com)](avinashkrsingh9@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nilay2311@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilay2311@gmail.com)](nilay2311@gmail.com)
 [![Docker Badge](https://img.shields.io/badge/Docker
